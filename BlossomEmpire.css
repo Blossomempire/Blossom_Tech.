@@ -1,0 +1,97 @@
+
+BODY{
+  color:#40514E;
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif ;
+  font-size: 200%;
+}
+
+
+h1{
+  color:#66BFBF;
+  font-size: 5.625rem;
+  margin-top: 50px auto 0 auto;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+h2{
+  color:#66BFBF;
+  font-family: "montserrat",sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+h3{color:#11999E;
+  font-family: "montserrat",sans-serif;
+}
+
+h5{color:#11999E;
+  margin-top: 50px auto 0 auto;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+  }
+a{
+ color:#11999E;
+ margin: 10px 20px;
+}
+a:hover{
+  color: #EAF6F6;
+}
+
+ .copyright{
+  color: #000000;
+  font-size: 1rem;
+  }
+  .address{
+    color: #000000;
+   font-size: 1rem;
+ }
+
+.top-container {
+background-image: url(img/images.jpeg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+position: relative;
+  padding: 45px;
+
+  }
+  
+
+  .bottom-container{
+    background-image: url(img/4.jpeg);
+    background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+position: relative;
+    padding: 35px;
+    
+  }
+  .glory{
+    width: 30%;
+    margin: auto;
+  }
+
+  
+
+.skill{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align:center;
+  line-height: 2%;
+  
+}
+
+.responsive-img circle{
+  width: 50%;
+  float: center;
+  margin: 30px;
+}

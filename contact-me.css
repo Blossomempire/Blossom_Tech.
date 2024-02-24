@@ -1,0 +1,70 @@
+BODY{
+    color:#40514E;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif ;
+    font-size: 200%;
+    background-image: url(img/7);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+      padding: 80px;
+  }
+  
+  
+  h1{
+    color:#66a1bf;
+    font-size: 5.625rem;
+    margin-top: 50px auto 0 auto;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  }
+  
+
+  
+  hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+    }
+  
+  
+  .copyright{
+      color:#020f0f;
+      font-size: 1rem;
+    }
+  
+  
+  .skill{
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align:center;
+    line-height: 2%;
+    
+  }
+  
+  .responsive-img circle{
+    width: 50%;
+    float: center;
+    margin: 30px;
+  }
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
